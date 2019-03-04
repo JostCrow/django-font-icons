@@ -15,7 +15,7 @@ setup(
     install_requires=[
         'django>1.11',
         'django-choices'
-    ]
+    ],
     license='BSD License',
     description='A utility for using icons in models and forms.',
     long_description=README,
