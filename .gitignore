@@ -1,0 +1,11 @@
+*.pyc
+*.egg
+*.egg-info
+build
+dist
+env/
+
+node_modules
+.gulp-scss-cache
+.sass-cache
+.vscode
