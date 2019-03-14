@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-font-icons',
-    version='1.0.0',
+    version='1.0.1',
     packages=['font_icons'],
     include_package_data=True,
     install_requires=[
